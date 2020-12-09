@@ -8,4 +8,4 @@ Incluido fix del category_game para las principales Stores de PS3
 
 Página oficial HEN http://ps3xploit.com/
 
-[![Watch the video](https://img.youtube.com/vi/T-hc-jsOBML_c/maxresdefault.jpg)](https://youtu.be/T-hc-jsOBML_c)
+
